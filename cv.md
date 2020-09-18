@@ -1,8 +1,8 @@
 # Marat Sovan
-phone: +375336575672 email:maratwp@mail.ru
-The acquisition of knowledge. 
-Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)
+## phone: +375336575672 email:maratwp@mail.ru
+***The acquisition of knowledge.***  
+Beginner.
 0
 New user
-0
+University BSUIR (2016).
 Level of knowledge of English: A-1
